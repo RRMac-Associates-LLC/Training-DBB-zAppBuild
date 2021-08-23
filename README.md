@@ -1,7 +1,7 @@
 # zAppBuild test
 zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs.
 
-## Resources
+## Resources test
 * [IBM Dependency Based Build Product Page](https://www.ibm.com/products/dependency-based-build)
 * [IBM DBB Knowledge Center](https://www.ibm.com/docs/en/dbb/1.1.0)
 * [IBM/dbb Repository](https://github.com/IBM/dbb/)
